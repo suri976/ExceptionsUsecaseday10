@@ -1,0 +1,2 @@
+# ExceptionsUsecaseday10
+exceptions
